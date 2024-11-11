@@ -1,5 +1,9 @@
 # Coffee shop invoicing
 
+![Build Status](https://github.com/Elixir-journey/coffee-shop-invoice/actions/workflows/ci.yml/badge.svg)
+![Code Style](https://img.shields.io/badge/style-credo-green)
+![License](https://img.shields.io/github/license/Elixir-journey/coffee-shop-invoice)
+
 An Elixir-based inventory and invoicing system that simulates processing customer orders in a coffee shop until the inventory is depleted. An interview challenge inspires this project and serves as a case study in Elixir software design, with features such as inventory management, order validation, and real-time billing.
 
 ## Features to implement
